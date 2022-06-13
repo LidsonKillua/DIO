@@ -1,2 +1,2 @@
-# Desafio de Projeto sobre Git/GitHub
-Repositório criado para o desafio.
+# DIO.
+Repositório criado para os cursos feitos na [Digital Inovation One](https://www.dio.me/).
